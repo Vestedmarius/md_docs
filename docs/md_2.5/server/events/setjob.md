@@ -6,8 +6,6 @@ AddEventHandler('esx:setjob', function(source, job, lastjob)
 end)
 ```
 
-returns [job table](https://vestedmarius.github.io/md_docs/md_2.5/server/xplayer/data/job)
-
 Gets called when a players job gets updated
 
 #### `parms` Table Information
@@ -15,8 +13,8 @@ Gets called when a players job gets updated
 | child          | type    | explanation                                                                                        |
 |----------------|---------|----------------------------------------------------------------------------------------------------|
 | source         | number  | The client id of the player                                                                        |
-| job            | table   | new job of player                                                                                  |
-| lastjob        | table   | old job of player                                                                                  |
+| job            | table   | new job of player returns [job table](https://vestedmarius.github.io/md_docs/md_2.5/server/xplayer/data/job)                                                                                 |
+| lastjob        | table   | old job of player returns [job table](https://vestedmarius.github.io/md_docs/md_2.5/server/xplayer/data/job)                                                                                 |
 
 
 
