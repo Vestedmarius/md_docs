@@ -1,18 +1,18 @@
-site_name: ESX Documentation
-site_description: Official ES Extended Documentation
-site_author: ES Extended Development Team
+site_name: MD ESX DOCS
+site_description: MeerDijk-rp docs voor ESX
+site_author: MeerDijk-RP
 
 # Repository
-repo_name: ESX Framework
-repo_url: https://github.com/esx-framework/
-edit_uri: ""
+# repo_name: ESX Framework
+# repo_url: https://github.com/esx-framework/
+# edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2017-2020 ESX Framework
+copyright: Copyright; 2020 MeerDijk-RP
 
 # Configuration
 docs_dir: docs
-site_dir: site
+site_dir: site/index.html
 strict: true
 
 # Theme
