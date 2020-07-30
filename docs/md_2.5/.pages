@@ -1,7 +1,6 @@
 title: MD 2.5
 arrange:
   - index.md
-  - installation.md
-  - common
+  - shared
   - client
   - server
