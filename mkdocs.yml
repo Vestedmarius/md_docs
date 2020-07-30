@@ -52,10 +52,8 @@ plugins:
 # Social
 extra:
   social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/esx-framework
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/ztzKWAF
+      link: https://discord.meerdijk-rp.nl
 
 # Extensions
 markdown_extensions:
